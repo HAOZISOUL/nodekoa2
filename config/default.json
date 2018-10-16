@@ -6,7 +6,7 @@
 	},
 	"mysql":{
 		"user": "root",
-		"psd": "111111",
+		"psd": "123456",
 		"database": "lkt2.0",
 		"host": "localhost",
 		"maxAge": 1800000,
